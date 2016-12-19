@@ -1,0 +1,32 @@
+{
+  "name": "sails-generate-custom-generator",
+  "version": "0.10.0",
+  "description": "sails generate custom-generator",
+  "main": "Generator.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "custom-generator",
+    "generator",
+    "sails",
+    "generate",
+    "plugin"
+  ],
+  "author": "balderdashy",
+  "license": "MIT",
+  "dependencies": {
+  	"lodash": ">=2.4.x",
+  	"merge-defaults": ">=0.1.0"
+  },
+  "devDependencies": {
+    "sails-generate": "*",
+    "reportback": "*",
+    "fs-extra": "*"
+  },
+  "sailsGenerator": {
+    "type": "custom-generator",
+    "behavior": "overrides `sails generate custom-generator`",
+    "sailsVersion": "~0.10.0"
+  }
+}
