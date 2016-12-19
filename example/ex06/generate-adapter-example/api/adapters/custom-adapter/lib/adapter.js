@@ -10,7 +10,7 @@
 
 
 /**
- * waterline-article
+ * waterline-custom-adapter
  *
  * Most of the methods below are optional.
  *

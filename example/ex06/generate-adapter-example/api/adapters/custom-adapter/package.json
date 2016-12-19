@@ -1,14 +1,14 @@
 {
-  "name": "waterline-article",
+  "name": "waterline-custom-adapter",
   "version": "0.10.0",
-  "description": "article adapter for Sails / Waterline",
+  "description": "custom-adapter adapter for Sails / Waterline",
   "main": "adapter.js",
   "scripts": {
     "test": "node test/integration/runner -R spec -b"
   },
   "repository": {"type":"git","url":"git://github.com/balderdashy/waterline-%s.git"},
   "keywords": [
-    "article",
+    "custom-adapter",
     "adapter",
     "sails",
     "waterline",
@@ -25,7 +25,7 @@
     "captains-log": "~0.11.0"
   },
   "waterlineAdapter": {
-    "type": "article",
+    "type": "custom-adapter",
     "interfaces": [
       "semantic",
       "queryable"

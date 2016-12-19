@@ -6,10 +6,10 @@
 The latest stable version in npm is always a safe bet.
 
 ```sh
-$ npm install waterline-article
+$ npm install waterline-custom-adapter
 ```
 
-[![NPM](https://nodei.co/npm/waterline-article.png?downloads=true&stars=true)](https://nodei.co/npm/waterline-article/)
+[![NPM](https://nodei.co/npm/waterline-custom-adapter.png?downloads=true&stars=true)](https://nodei.co/npm/waterline-custom-adapter/)
 
 
 
@@ -124,4 +124,4 @@ If you feel that yours is the better approach, and should be the default, share 
 
 
 
-[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/8acf2fc2ca0aca8a3018e355ad776ed7 "githalytics.com")](http://githalytics.com/balderdashy/waterline-article/FAQ.md)
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/8acf2fc2ca0aca8a3018e355ad776ed7 "githalytics.com")](http://githalytics.com/balderdashy/waterline-custom-adapter/FAQ.md)

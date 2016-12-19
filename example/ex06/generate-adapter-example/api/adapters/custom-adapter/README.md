@@ -1,8 +1,8 @@
 ![image_squidhome@2x.png](http://i.imgur.com/RIvu9.png)
 
-# waterline-article
+# waterline-custom-adapter
 
-Provides easy access to `article` from Sails.js & Waterline.
+Provides easy access to `custom-adapter` from Sails.js & Waterline.
 
 This module is a Waterline/Sails adapter, an early implementation of a rapidly-developing, tool-agnostic data standard.  Its goal is to provide a set of declarative interfaces, conventions, and best-practices for integrating with all sorts of data sources.  Not just databases-- external APIs, proprietary web services, or even hardware.
 
@@ -14,7 +14,7 @@ Strict adherence to an adapter specification enables the (re)use of built-in gen
 To install this adapter, run:
 
 ```sh
-$ npm install waterline-article
+$ npm install waterline-custom-adapter
 ```
 
 
@@ -138,6 +138,6 @@ See [`FAQ.md`](./FAQ.md).
 [Sails](http://sailsjs.org) is free and open-source under the [MIT License](http://sails.mit-license.org/).
 
 
-[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/8acf2fc2ca0aca8a3018e355ad776ed7 "githalytics.com")](http://githalytics.com/balderdashy/waterline-article/README.md)
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/8acf2fc2ca0aca8a3018e355ad776ed7 "githalytics.com")](http://githalytics.com/balderdashy/waterline-custom-adapter/README.md)
 
 
