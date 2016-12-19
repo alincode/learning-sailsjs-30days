@@ -1,1 +1,1 @@
-# learning-sailsjs-30days
+# learning Sails.js 30 days
